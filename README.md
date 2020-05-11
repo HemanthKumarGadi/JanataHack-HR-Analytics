@@ -1,4 +1,4 @@
-# JanataHack-HR-Analytics
+# JanataHack-HR-Analytics (Analytics Vidya)
 HR analytics is revolutionising the way human resources departments operate, leading to higher efficiency and better 
 results overall. Human resources has been using analytics for years. However, 
 the collection, processing and analysis of data has been largely manual, and given the 
@@ -7,5 +7,5 @@ Therefore, it is surprising that HR departments woke up to the utility of machin
 This Janata Hack presents an opportunity to try predictive analytics in HR Domain, so gear up for another fun
 filled weekend.
 
-Here I'm done simple Data Preprocessing using basic pandas operations & Impute Missing Values with mode of the data.
+Here I'm done simple Data Preprocessing using basic pandas operations & Impute Missing Values with mode of the each feature.
 Tested all Major ML models(without Data Balancing)
